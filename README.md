@@ -1,2 +1,3 @@
 # GrainGrowth_TD_aniso
-Anisotropic grain growth driven by the experimental grain boundary energy for Nickle microstructure using Threshold Dynamics
+Anisotropic grain growth driven by the experimental grain boundary energy for Nickle microstructure using Threshold Dynamics.
+Read experimental microstructures and fitted equation onexperimental grain boundary energy table function of the unit normal of theboundary for Nickle microstructure, compute anisotropic kernel based on the grainboundary equation, model grain growth with anisotropic Threshold Dynamics, andwrite the simulated microstructure. This work follows the anisotropic threshold dynamics algorithm in Elsey, Matt, and Selim Esedoḡlu. "Threshold dynamics for anisotropic surface energies." Mathematics of Computation 87.312 (2018): 1721-1756.
